@@ -326,7 +326,7 @@ namespace MaterialSkinExample
             this.materialButton1.TabIndex = 0;
             this.materialButton1.Text = "Change Theme";
             this.materialButton1.UseVisualStyleBackColor = true;
-            this.materialButton1.Click += new System.EventHandler(this.materialButton1_Click);
+            this.materialButton1.Click += new System.EventHandler(this.MaterialButton1_Click);
             // 
             // materialRadioButton1
             // 
@@ -426,7 +426,7 @@ namespace MaterialSkinExample
             this.materialRaisedButton1.TabIndex = 21;
             this.materialRaisedButton1.Text = "Change color scheme";
             this.materialRaisedButton1.UseVisualStyleBackColor = true;
-            this.materialRaisedButton1.Click += new System.EventHandler(this.materialRaisedButton1_Click);
+            this.materialRaisedButton1.Click += new System.EventHandler(this.MaterialRaisedButton1_Click);
             // 
             // tabPage2
             // 
@@ -594,7 +594,7 @@ namespace MaterialSkinExample
             this.materialFlatButton4.TabIndex = 2;
             this.materialFlatButton4.Text = "Subtract";
             this.materialFlatButton4.UseVisualStyleBackColor = true;
-            this.materialFlatButton4.Click += new System.EventHandler(this.materialFlatButton4_Click);
+            this.materialFlatButton4.Click += new System.EventHandler(this.MaterialFlatButton4_Click);
             // 
             // materialRaisedButton2
             // 
@@ -611,7 +611,7 @@ namespace MaterialSkinExample
             this.materialRaisedButton2.TabIndex = 1;
             this.materialRaisedButton2.Text = "Add";
             this.materialRaisedButton2.UseVisualStyleBackColor = true;
-            this.materialRaisedButton2.Click += new System.EventHandler(this.materialRaisedButton2_Click);
+            this.materialRaisedButton2.Click += new System.EventHandler(this.MaterialRaisedButton2_Click);
             // 
             // materialProgressBar1
             // 
